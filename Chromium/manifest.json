@@ -4,6 +4,7 @@
     "version": "1.0",
     "description": "Tired of all the Sign in with google prompts? This extension aims to remove them automatically.",
     "permissions": [
+      "storage",
       "activeTab",
       "scripting"
     ],
@@ -13,6 +14,9 @@
         "js": ["content.js"],
         "run_at": "document_idle"
       }
-    ]
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
   }
   
