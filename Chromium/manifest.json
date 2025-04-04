@@ -2,7 +2,8 @@
     "manifest_version": 3,
     "name": "Google One Tap Sign In Remover",
     "version": "1.0",
-    "description": "Tired of all the Sign in with google prompts? This extension aims to remove them automatically.",
+    "description": "Silently blocks the Google One Tap sign-in prompt from appearing on sites like Stack Overflow, Reddit, and others. Clean up your browsing experience with zero interruptions.",
+    "short_description": "Removes Google One Tap prompts for a cleaner web.",
     "permissions": [
       "storage",
       "activeTab",
