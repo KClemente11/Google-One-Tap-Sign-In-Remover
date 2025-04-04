@@ -17,6 +17,10 @@
     ],
     "action": {
       "default_popup": "popup.html"
+    },
+    "icons": {
+      "48": "Google_one_tap_sign_in_icon.png",
+      "128": "Google_one_tap_sign_in_icon.png"
     }
   }
   
