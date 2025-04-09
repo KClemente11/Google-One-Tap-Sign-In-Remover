@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Google One Tap Sign In Remover",
     "version": "1.0",
-    "description": "Silently blocks the Google One Tap sign-in prompt from appearing on sites like Stack Overflow, Reddit, and others. Clean up your browsing experience with zero interruptions.",
+    "description": "Removes the Google One Tap sign-in prompt from sites like Stack Overflow, Reddit, and more for a cleaner web.",
     "short_description": "Removes Google One Tap prompts for a cleaner web.",
     "permissions": [
       "storage",
